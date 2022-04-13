@@ -68,9 +68,9 @@ Exposer.methodToExpose; // undefined
  * The prototype model is used mainly for creating objects in performance-intensive situations.
  */
 var myConstructor = function() {
-  this.name = 'Mark Grogan';
-  this.age  = '37';
-  this.dob  = '29/10/79';
+  this.name = '';
+  this.age  = '';
+  this.dob  = '';
 }
 
 // Prototype method 1
